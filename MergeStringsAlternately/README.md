@@ -1,4 +1,4 @@
-<h1 align="center">Combinar cuerdas alternativas</h1>
+<h1 align="center">Combinar cadenas alternativas</h1>
 
 <ul>
   <li align="center">✅Pedir primera palabra</li>
